@@ -1,0 +1,3 @@
+rootProject.name = 'MS_Customer'
+include ':core'
+include ':infrastructure'
