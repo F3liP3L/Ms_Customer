@@ -4,5 +4,5 @@ import co.moonforest.mscustomer.core.domain.Entity;
 
 import java.util.UUID;
 
-public class CustomerEntity extends Entity<UUID> {
+public final class CustomerEntity extends Entity<UUID> {
 }
